@@ -1,0 +1,12 @@
+git commands
+git init for initializing repo
+git add . move all files to staging area
+git commit -m "message" move files to local repo
+git push url move data to remote repo
+git pull url get data from remote repo
+git remote -v to view remote repo associated with main branch
+git branch shows branch name
+git merge  branch  merging branch
+git clone "url" for connecting remote repo to local repo
+
+
